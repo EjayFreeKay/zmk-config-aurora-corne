@@ -15,23 +15,23 @@ layers:
   - '9'
   - '0'
   - $$mdi:backspace-outline$$
-  - BT CLR
-  - BT 1
-  - BT 2
-  - BT 3
-  - BT 4
-  - BT 5
-  - ←
-  - ↓
-  - ↑
-  - →
+  - Caps Word
+  - Ctl+A
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - $$mdi:apple-keyboard-shift$$
-  - '&studio_unlock'
-  - '&studio_unlock'
+  - BACKSPACE
+  - {t: ▽, type: trans}
+  - '#'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - $$mdi:apple-keyboard-control$$
+  - Ctl+Z
+  - Ctl+Y
+  - Ctl+C
+  - Ctl+V
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -59,23 +59,23 @@ layers:
   - )
   - $$mdi:backspace-outline$$
   - $$mdi:apple-keyboard-control$$
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
   - '-'
-  - '='
-  - '['
-  - ']'
-  - \
+  - ←
+  - ↓
+  - UP ARROW
+  - →
   - '`'
   - $$mdi:apple-keyboard-shift$$
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
   - _
   - +
   - '{'
@@ -83,10 +83,10 @@ layers:
   - '|'
   - '~'
   - $$mdi:apple-keyboard-command$$
-  - '&studio_unlock'
+  - {t: ▽, type: trans}
   - ␣
   - ⏎
-  - {t: '&studio_unlock', type: held}
+  - {type: held}
   - $$mdi:apple-keyboard-option$$
   '3':
   - {t: ▽, type: trans}
